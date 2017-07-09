@@ -1,4 +1,4 @@
-package opensource.tamilkeyboard.util;
+package com.srihari92.tamilkeyboard.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

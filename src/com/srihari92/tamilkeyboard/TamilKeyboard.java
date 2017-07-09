@@ -1,4 +1,4 @@
-package opensource.tamilkeyboard;
+package com.srihari92.tamilkeyboard;
 
 import java.awt.AWTException;
 import java.awt.Color;
@@ -17,9 +17,10 @@ import java.util.List;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import opensource.tamilkeyboard.util.ClipBoardUtil;
-import opensource.tamilkeyboard.util.DBUtil;
-import opensource.tamilkeyboard.util.Util;
+
+import com.srihari92.tamilkeyboard.util.ClipBoardUtil;
+import com.srihari92.tamilkeyboard.util.DBUtil;
+import com.srihari92.tamilkeyboard.util.Util;
 
 public class TamilKeyboard {
 
